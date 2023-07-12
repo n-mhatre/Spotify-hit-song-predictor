@@ -2,6 +2,9 @@
 
 This project aims to predict whether songs will be hits or misses using a Spotify dataset spanning from the 1960s to the 2010s. Employing Logistic Regression, Support Vector Machines (SVM), Random Forest, and Ensemble methods, the project entails thorough data preprocessing, hyperparameter optimization, model evaluation, and comprehensive result analysis.
 
+![Alt Text](img.png)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data](#data)
